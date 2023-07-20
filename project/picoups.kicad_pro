@@ -509,6 +509,30 @@
     [
       "d62f1157-7c2f-4dce-8167-d5624900d267",
       ""
+    ],
+    [
+      "69257c21-ade6-4c01-a27c-653d8ba74447",
+      "Solar Panel Supply"
+    ],
+    [
+      "d2602436-7008-4d0c-96bd-d6a5c976935b",
+      "USB Power Supply"
+    ],
+    [
+      "92ed0473-53e9-4211-a651-f912f1c2bd2b",
+      "5V Power Supply"
+    ],
+    [
+      "834bbbbe-6999-483a-a383-7c27b80d3fa6",
+      "Power Mux"
+    ],
+    [
+      "28cf3a3e-2270-4421-9985-b09e0cdb49a4",
+      "Power Monitor"
+    ],
+    [
+      "e21d3221-edd3-4144-8d1a-91b5737dd9b8",
+      "Status LEDs"
     ]
   ],
   "text_variables": {}
