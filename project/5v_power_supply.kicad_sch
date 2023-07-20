@@ -503,7 +503,7 @@
           (reference "C8") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/92ed0473-53e9-4211-a651-f912f1c2bd2b"
-          (reference "C3") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -596,7 +596,7 @@
           (reference "L2") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/92ed0473-53e9-4211-a651-f912f1c2bd2b"
-          (reference "L1") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
@@ -718,10 +718,10 @@
   (symbol (lib_id "Device:R") (at 143.51 102.87 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9afa166-01f0-4919-9d30-a9e92858e3f1)
-    (property "Reference" "R10" (at 139.7 104.14 0)
+    (property "Reference" "R10" (at 139.7 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1M" (at 139.7 101.6 0)
+    (property "Value" "1M" (at 139.7 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_1210_3225Metric" (at 145.288 102.87 90)
@@ -738,7 +738,7 @@
           (reference "R10") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/92ed0473-53e9-4211-a651-f912f1c2bd2b"
-          (reference "R4") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -767,7 +767,7 @@
           (reference "C10") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/92ed0473-53e9-4211-a651-f912f1c2bd2b"
-          (reference "C4") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )

@@ -394,7 +394,7 @@
           (reference "C?") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
-          (reference "C5") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -438,7 +438,7 @@
           (reference "U?") (unit 1)
         )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
-          (reference "U2") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
