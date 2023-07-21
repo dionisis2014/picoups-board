@@ -397,7 +397,7 @@
     (property "Value" "BQ24040" (at 148.59 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SON:WSON-6_1.5x1.5mm_P0.5mm" (at 148.59 97.79 0)
+    (property "Footprint" "PicoUPS:WSON-10-1EP_2x2mm_P0.5mm" (at 148.59 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 148.59 97.79 0)
