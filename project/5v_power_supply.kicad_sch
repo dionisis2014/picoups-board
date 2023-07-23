@@ -649,7 +649,7 @@
     (property "Value" "SW_5V" (at 134.62 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12" (at 134.62 92.71 0)
+    (property "Footprint" "PicoUPS:SW_SPDT_PCM12" (at 134.62 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 92.71 0)
