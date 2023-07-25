@@ -1146,7 +1146,7 @@
     (property "Value" "LT3652EMSE" (at 127.6859 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm" (at 125.73 111.76 0)
+    (property "Footprint" "Package_SO:MSOP-12-1EP_3x4mm_P0.65mm_EP1.65x2.85mm_ThermalVias" (at 125.73 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/3652fe.pdf" (at 140.97 116.84 0)
