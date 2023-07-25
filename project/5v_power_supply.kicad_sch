@@ -319,6 +319,7 @@
   )
 
   (no_connect (at 147.32 99.06) (uuid 4aef6b2f-62c2-49b2-93da-504993a5dd15))
+  (no_connect (at 139.7 90.17) (uuid a2d728f8-309d-44bb-9458-643d4dd41f10))
 
   (wire (pts (xy 168.91 100.33) (xy 168.91 95.25))
     (stroke (width 0) (type default))
