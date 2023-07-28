@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.1"
+      "Version": "7.0.6"
     },
-    "CreationDate": "2023-05-02T18:46:26+03:00"
+    "CreationDate": "2023-07-28T15:42:25+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "picoups",
       "GUID": "7069636f-7570-4732-9e6b-696361645f70",
-      "Revision": "rev?"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 65.1,
@@ -19,7 +19,7 @@
     },
     "LayerNumber": 4,
     "BoardThickness": 1.58,
-    "Finish": "HAL SnPb",
+    "Finish": "None",
     "ImpedanceControlled": true
   },
   "DesignRules": [
@@ -27,18 +27,18 @@
       "Layers": "Outer",
       "PadToPad": 0.15,
       "PadToTrack": 0.15,
-      "TrackToTrack": 0.2,
-      "MinLineWidth": 0.4,
-      "TrackToRegion": 0.2,
-      "RegionToRegion": 0.2
+      "TrackToTrack": 0.15,
+      "MinLineWidth": 0.2,
+      "TrackToRegion": 0.15,
+      "RegionToRegion": 0.15
     },
     {
       "Layers": "Inner",
       "PadToPad": 0.15,
       "PadToTrack": 0.15,
-      "TrackToTrack": 0.2,
-      "TrackToRegion": 0.5,
-      "RegionToRegion": 0.5
+      "TrackToTrack": 0.15,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     }
   ],
   "FilesAttributes": [
