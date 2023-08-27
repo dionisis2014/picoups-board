@@ -409,7 +409,7 @@
     (property "Value" "INA3221" (at 154.3559 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DFN_QFN:Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm" (at 149.86 72.39 0)
+    (property "Footprint" "Package_DFN_QFN:Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm_ThermalVias" (at 149.86 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina3221.pdf" (at 149.86 82.55 0)
