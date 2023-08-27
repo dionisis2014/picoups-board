@@ -771,8 +771,8 @@
     (property "Datasheet" "~" (at 185.42 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 94b8694b-d907-48c2-8619-51d15ff8bc8d))
-    (pin "2" (uuid 48b4e586-ec3a-4e93-ba38-ad9759ffee6e))
+    (pin "1" (uuid dba0ef1e-c816-46da-8a6c-5ce95bbea5f4))
+    (pin "2" (uuid fdf226aa-7248-4c16-8538-ef95e1dc30d1))
     (instances
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
