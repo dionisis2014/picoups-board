@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "PicoUPS")
-    (date "2023-08-27")
-    (rev "1.1.0")
+    (date "2023-09-19")
+    (rev "1.2.0")
   )
 
   (layers
@@ -7046,7 +7046,7 @@
   (gr_text "U" (at 117.25 110.5) (layer "B.SilkS") (tstamp 5bad13f0-54d8-42f0-bf31-12771a4b18f5)
     (effects (font (size 0.6 0.8) (thickness 0.15) bold) (justify mirror))
   )
-  (gr_text "rev 1.1.1\n16.09.23" (at 109.25 115) (layer "B.SilkS") (tstamp a2dbf639-fba3-4801-9d07-753c486128e3)
+  (gr_text "rev 1.2.0\n16.09.23" (at 109.25 115) (layer "B.SilkS") (tstamp a2dbf639-fba3-4801-9d07-753c486128e3)
     (effects (font (size 0.6 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "B" (at 113.25 110.5) (layer "B.SilkS") (tstamp ab01a272-7430-4529-b60e-9b85b2bca3f3)
@@ -7091,7 +7091,7 @@
   (gr_text "USER BTN" (at 95.9 114) (layer "F.SilkS" knockout) (tstamp c821bb36-64f6-4bf9-ae79-96a1a8e82a7f)
     (effects (font (size 0.75 1) (thickness 0.15)) (justify left))
   )
-  (gr_text "v1.1" (at 118 115 300) (layer "F.SilkS") (tstamp d879ca8b-b3bf-4f1c-9394-455cc1cd3961)
+  (gr_text "v1.2" (at 118 115 300) (layer "F.SilkS") (tstamp d879ca8b-b3bf-4f1c-9394-455cc1cd3961)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
   )
   (gr_text "PicoUPS" (at 120.5 109 300) (layer "F.SilkS") (tstamp e1a5a60a-18d8-4747-aff7-3bf7356a4e5a)
