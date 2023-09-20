@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "PicoUPS")
-    (date "2023-09-19")
+    (date "2023-09-20")
     (rev "1.2.0")
   )
 
@@ -7046,7 +7046,7 @@
   (gr_text "U" (at 117.25 110.5) (layer "B.SilkS") (tstamp 5bad13f0-54d8-42f0-bf31-12771a4b18f5)
     (effects (font (size 0.6 0.8) (thickness 0.15) bold) (justify mirror))
   )
-  (gr_text "rev 1.2.0\n16.09.23" (at 109.25 115) (layer "B.SilkS") (tstamp a2dbf639-fba3-4801-9d07-753c486128e3)
+  (gr_text "rev 1.2.0\n20.09.23" (at 109.25 115) (layer "B.SilkS") (tstamp a2dbf639-fba3-4801-9d07-753c486128e3)
     (effects (font (size 0.6 0.8) (thickness 0.15)) (justify mirror))
   )
   (gr_text "B" (at 113.25 110.5) (layer "B.SilkS") (tstamp ab01a272-7430-4529-b60e-9b85b2bca3f3)
@@ -12676,7 +12676,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.3) (thermal_bridge_width 0.5) (smoothing fillet) (radius 0.25) (island_removal_mode 2) (island_area_min 2))
+    (fill (thermal_gap 0.3) (thermal_bridge_width 0.5) (island_removal_mode 2) (island_area_min 2))
     (polygon
       (pts
         (xy 91 98.75)
