@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2023-09-16T21:48:38+03:00"
+    "CreationDate": "2023-09-20T17:31:38+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "picoups",
       "GUID": "7069636f-7570-4732-9e6b-696361645f70",
-      "Revision": "1.1.0"
+      "Revision": "1.2.0"
     },
     "Size": {
       "X": 65.1,
