@@ -318,7 +318,7 @@
   (symbol (lib_id "power:GND") (at 170.18 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 002a0cf3-371b-41b8-af61-30ade5beb63a)
-    (property "Reference" "#PWR?" (at 170.18 97.79 0)
+    (property "Reference" "#PWR016" (at 170.18 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 170.18 96.52 0)
@@ -333,9 +333,6 @@
     (pin "1" (uuid 810cb324-ab76-4baf-a63a-118f04c3378c))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "#PWR016") (unit 1)
         )
@@ -346,7 +343,7 @@
   (symbol (lib_id "power:GND") (at 147.32 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0031f7cd-6b68-4c9d-a9f2-89fd787d6286)
-    (property "Reference" "#PWR?" (at 147.32 125.73 0)
+    (property "Reference" "#PWR012" (at 147.32 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 147.32 124.46 0)
@@ -361,9 +358,6 @@
     (pin "1" (uuid 5be05188-7052-4e7c-8af0-df9c1dc4ddc5))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "#PWR012") (unit 1)
         )
@@ -374,7 +368,7 @@
   (symbol (lib_id "Device:C") (at 170.18 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b48bb29-09bc-4211-9c5d-4dfb7e5a0b24)
-    (property "Reference" "C?" (at 173.99 83.82 0)
+    (property "Reference" "C11" (at 173.99 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 173.99 86.36 0)
@@ -390,9 +384,6 @@
     (pin "2" (uuid 93233e8d-7be7-4891-95d9-cad138226610))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "C11") (unit 1)
         )
@@ -403,7 +394,7 @@
   (symbol (lib_id "Power_Management:INA3221") (at 149.86 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24eb7302-e2f0-459a-abdf-08a236f06bcb)
-    (property "Reference" "U?" (at 154.3559 80.01 0)
+    (property "Reference" "U5" (at 154.3559 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "INA3221" (at 154.3559 82.55 0)
@@ -434,9 +425,6 @@
     (pin "9" (uuid 113b606b-8d86-4888-afe2-048f3acce524))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "U?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "U5") (unit 1)
         )
@@ -447,7 +435,7 @@
   (symbol (lib_id "power:GND") (at 152.4 78.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35f8cc00-f03d-4674-8d31-2e3783c63eec)
-    (property "Reference" "#PWR?" (at 152.4 72.39 0)
+    (property "Reference" "#PWR013" (at 152.4 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 152.4 73.66 0)
@@ -462,9 +450,6 @@
     (pin "1" (uuid 660a10a4-c4bf-459b-8fcb-ef6a58a27748))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "#PWR013") (unit 1)
         )
@@ -475,7 +460,7 @@
   (symbol (lib_id "power:GND") (at 166.37 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3fb9bfbd-a8e5-4d3e-a35b-3707197be25e)
-    (property "Reference" "#PWR?" (at 166.37 118.11 0)
+    (property "Reference" "#PWR015" (at 166.37 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 116.84 0)
@@ -490,9 +475,6 @@
     (pin "1" (uuid a7bfe442-30f4-435f-9f41-4fdc50003a99))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "#PWR015") (unit 1)
         )
@@ -503,7 +485,7 @@
   (symbol (lib_id "power:GND") (at 152.4 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3a73fa4-036d-4457-bb51-f5b5df02e787)
-    (property "Reference" "#PWR?" (at 152.4 125.73 0)
+    (property "Reference" "#PWR014" (at 152.4 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 152.4 124.46 0)
@@ -518,9 +500,6 @@
     (pin "1" (uuid aa2d298b-89c4-43f1-a041-ac522087ce0e))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
           (reference "#PWR014") (unit 1)
         )

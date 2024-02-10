@@ -767,7 +767,7 @@
   (symbol (lib_id "power:GND") (at 109.22 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 02018643-85ff-4b67-b666-2d059dd45da2)
-    (property "Reference" "#PWR09" (at 109.22 124.46 0)
+    (property "Reference" "#PWR043" (at 109.22 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 109.22 123.19 0)
@@ -782,9 +782,6 @@
     (pin "1" (uuid 9769626a-922a-4f22-8135-330466f62410))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR09") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR043") (unit 1)
         )
@@ -795,7 +792,7 @@
   (symbol (lib_id "Device:R") (at 146.05 104.14 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 128daf80-74ca-400e-a5c6-dd5d05473b0d)
-    (property "Reference" "R4" (at 146.05 106.68 90)
+    (property "Reference" "R3" (at 146.05 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "185k" (at 146.05 109.22 90)
@@ -811,9 +808,6 @@
     (pin "2" (uuid 7dce05ca-9df5-404b-8eab-1b310362ade0))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R4") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "R3") (unit 1)
         )
@@ -824,7 +818,7 @@
   (symbol (lib_id "Device:C") (at 226.06 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 186e31f7-e2d7-4f45-97ff-4010c609134c)
-    (property "Reference" "C6" (at 229.87 95.25 0)
+    (property "Reference" "C4" (at 229.87 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47uF" (at 229.87 97.79 0)
@@ -840,9 +834,6 @@
     (pin "2" (uuid 7b948d0f-3669-4e3c-bd11-8b14515c6871))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C6") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C4") (unit 1)
         )
@@ -853,7 +844,7 @@
   (symbol (lib_id "power:GND") (at 80.01 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1af8ee8a-054a-4cb4-bd1b-ece03e61e58a)
-    (property "Reference" "#PWR02" (at 80.01 110.49 0)
+    (property "Reference" "#PWR049" (at 80.01 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 80.01 109.22 0)
@@ -868,9 +859,6 @@
     (pin "1" (uuid 6cf8b4fd-180a-4c19-8c40-83ec4900f7a5))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR049") (unit 1)
         )
@@ -897,9 +885,6 @@
     (pin "2" (uuid b1ae3452-8361-4a93-b77f-e99d64756a24))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C1") (unit 1)
         )
@@ -910,7 +895,7 @@
   (symbol (lib_id "power:GND") (at 181.61 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 283f329c-6dc6-4019-906f-07bfa2211b6d)
-    (property "Reference" "#PWR06" (at 181.61 90.17 0)
+    (property "Reference" "#PWR047" (at 181.61 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 181.61 88.9 0)
@@ -925,9 +910,6 @@
     (pin "1" (uuid 53d73e16-1fa8-48ac-aa4b-ffa220e3f66a))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR06") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR047") (unit 1)
         )
@@ -938,7 +920,7 @@
   (symbol (lib_id "power:GND") (at 175.26 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c831f7b-eb61-4fa0-9082-921385ef83da)
-    (property "Reference" "#PWR011" (at 175.26 121.92 0)
+    (property "Reference" "#PWR046" (at 175.26 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 175.26 120.65 0)
@@ -953,9 +935,6 @@
     (pin "1" (uuid 9d8f3237-719c-429c-90be-74ced67c0f04))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR011") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR046") (unit 1)
         )
@@ -982,9 +961,6 @@
     (pin "2" (uuid 5e293665-7646-40ee-bade-a292b4851f09))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "L1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "L1") (unit 1)
         )
@@ -995,7 +971,7 @@
   (symbol (lib_id "power:GND") (at 125.73 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40fb7278-6663-4b1a-b2bc-5af3923fad6b)
-    (property "Reference" "#PWR08" (at 125.73 119.38 0)
+    (property "Reference" "#PWR044" (at 125.73 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 125.73 118.11 0)
@@ -1010,9 +986,6 @@
     (pin "1" (uuid 35424d30-d33e-4b61-9f7e-ed8d424fe0d6))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR08") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR044") (unit 1)
         )
@@ -1023,7 +996,7 @@
   (symbol (lib_id "Device:C") (at 201.93 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5fd2f989-e2f2-4b39-8677-cf52123f47f6)
-    (property "Reference" "C4" (at 205.74 95.25 0)
+    (property "Reference" "C2" (at 205.74 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 205.74 97.79 0)
@@ -1039,9 +1012,6 @@
     (pin "2" (uuid 52f41e16-abd1-496d-b4ee-b9b14d16f859))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C4") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C2") (unit 1)
         )
@@ -1068,9 +1038,6 @@
     (pin "2" (uuid 758dfbf5-9c71-4f3f-af32-9e48fa637589))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R2") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "R2") (unit 1)
         )
@@ -1098,9 +1065,6 @@
     (pin "3" (uuid b6ce779f-be13-4499-b602-0a8f822d47b8))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "RV1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "RV1") (unit 1)
         )
@@ -1111,7 +1075,7 @@
   (symbol (lib_id "Device:C") (at 147.32 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a2fa4d1-62bd-49e1-b4d9-6a05b8b1f8e7)
-    (property "Reference" "C2" (at 151.13 83.82 0)
+    (property "Reference" "C5" (at 151.13 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 151.13 86.36 0)
@@ -1127,9 +1091,6 @@
     (pin "2" (uuid 4d4653e5-0192-41bc-8b3c-49335ea3e9ce))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C2") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C5") (unit 1)
         )
@@ -1167,9 +1128,6 @@
     (pin "9" (uuid 5417bcd3-541f-4120-bff1-37308aa871b9))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "U1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "U1") (unit 1)
         )
@@ -1180,7 +1138,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 154.94 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8205e2ae-e630-49a9-823b-6541f1bd5131)
-    (property "Reference" "D1" (at 154.94 88.9 0)
+    (property "Reference" "D2" (at 154.94 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "30V@3A" (at 154.94 91.44 0)
@@ -1196,9 +1154,6 @@
     (pin "2" (uuid 9263b273-d7fa-46b1-add9-568cca9c8b47))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "D2") (unit 1)
         )
@@ -1225,9 +1180,6 @@
     (pin "2" (uuid 2ba50821-3788-4ab4-abb5-d3b1092254c8))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "R1") (unit 1)
         )
@@ -1238,7 +1190,7 @@
   (symbol (lib_id "power:GND") (at 153.67 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89f7131b-0b96-4699-bb84-cc44909d9155)
-    (property "Reference" "#PWR07" (at 153.67 124.46 0)
+    (property "Reference" "#PWR045" (at 153.67 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 153.67 123.19 0)
@@ -1253,9 +1205,6 @@
     (pin "1" (uuid c9ecaf35-3252-4e3a-8184-cbdd97127ece))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR07") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR045") (unit 1)
         )
@@ -1266,7 +1215,7 @@
   (symbol (lib_id "power:GND") (at 97.79 101.6 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 945a70e1-9bb2-4889-8411-b607c9555f42)
-    (property "Reference" "#PWR010" (at 97.79 107.95 0)
+    (property "Reference" "#PWR023" (at 97.79 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 97.79 106.68 0)
@@ -1281,9 +1230,6 @@
     (pin "1" (uuid 37d71355-d1d5-4ae0-af2d-dba6a7d670f1))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR010") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR023") (unit 1)
         )
@@ -1294,7 +1240,7 @@
   (symbol (lib_id "Device:C") (at 109.22 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a572de16-e984-4caf-94a5-e561dcba830c)
-    (property "Reference" "C3" (at 113.03 110.49 0)
+    (property "Reference" "C6" (at 113.03 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uF" (at 113.03 113.03 0)
@@ -1310,9 +1256,6 @@
     (pin "2" (uuid 831f5522-f6ed-40fd-a4b8-64ebd41e937c))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C3") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C6") (unit 1)
         )
@@ -1323,7 +1266,7 @@
   (symbol (lib_id "Device:C") (at 213.36 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aeaf1a87-502d-48bb-a6bb-65ea32180dfb)
-    (property "Reference" "C5" (at 217.17 95.25 0)
+    (property "Reference" "C3" (at 217.17 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47uF" (at 217.17 97.79 0)
@@ -1339,9 +1282,6 @@
     (pin "2" (uuid ef5f71be-fda1-4b5a-b209-9fcbc2173604))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "C5") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "C3") (unit 1)
         )
@@ -1352,7 +1292,7 @@
   (symbol (lib_id "power:GND") (at 201.93 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb19abe2-cac7-4d7e-8bec-cf55d6f1a2bf)
-    (property "Reference" "#PWR03" (at 201.93 109.22 0)
+    (property "Reference" "#PWR048" (at 201.93 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 201.93 107.95 0)
@@ -1367,9 +1307,6 @@
     (pin "1" (uuid 294238b2-b583-41a2-856b-97d6c64bdd4a))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "#PWR03") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "#PWR048") (unit 1)
         )
@@ -1395,9 +1332,6 @@
     (pin "1" (uuid 69fe7a8d-6e74-4add-b00a-48f5ace3d9bf))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "TP1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "TP1") (unit 1)
         )
@@ -1408,7 +1342,7 @@
   (symbol (lib_id "Device:D_Schottky") (at 173.99 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d4b45a05-f6fb-4b98-bdf9-ade7ca07074f)
-    (property "Reference" "D2" (at 173.99 73.66 0)
+    (property "Reference" "D1" (at 173.99 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "30V@3A" (at 173.99 76.2 0)
@@ -1424,9 +1358,6 @@
     (pin "2" (uuid 60d4cb84-49be-4afa-89ec-c308767ef868))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D2") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "D1") (unit 1)
         )
@@ -1437,7 +1368,7 @@
   (symbol (lib_id "Device:R") (at 153.67 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dc119619-0c3f-4048-8fe1-82962d8de9c0)
-    (property "Reference" "R3" (at 156.21 110.49 0)
+    (property "Reference" "R4" (at 156.21 110.49 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "330k" (at 156.21 113.03 0)
@@ -1453,9 +1384,6 @@
     (pin "2" (uuid d7f5e411-96a7-42e6-aabc-485ad2fbd576))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R3") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "R4") (unit 1)
         )
@@ -1481,9 +1409,6 @@
     (pin "1" (uuid 011fcd61-f659-4e83-91e4-e2a32456f1dd))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "TP2") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
           (reference "TP2") (unit 1)
         )

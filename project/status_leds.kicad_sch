@@ -304,7 +304,7 @@
   (symbol (lib_id "Device:R") (at 157.48 109.22 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c310111-eb9d-41a0-90f4-ab53f90ff6b3)
-    (property "Reference" "R15" (at 157.48 104.14 90)
+    (property "Reference" "R19" (at 157.48 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 157.48 106.68 90)
@@ -320,9 +320,6 @@
     (pin "2" (uuid 74962812-bc4a-4118-a585-29d6d51406ee))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R15") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "R19") (unit 1)
         )
@@ -333,7 +330,7 @@
   (symbol (lib_id "Device:LED") (at 146.05 88.9 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4005dba5-94d2-4d7c-9129-0d0a11da8ba3)
-    (property "Reference" "D3" (at 148.59 82.55 0)
+    (property "Reference" "D5" (at 148.59 82.55 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "CHRG" (at 148.59 85.09 0)
@@ -349,9 +346,6 @@
     (pin "2" (uuid 38682c42-c75d-4ddb-89ee-96755f1c8e3c))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D3") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "D5") (unit 1)
         )
@@ -378,9 +372,6 @@
     (pin "2" (uuid 774f37ca-8b97-4838-9656-23e77f68cd0d))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D7") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "D7") (unit 1)
         )
@@ -391,7 +382,7 @@
   (symbol (lib_id "Device:R") (at 157.48 88.9 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 72c5fca2-936c-4186-a113-3c468c554170)
-    (property "Reference" "R6" (at 157.48 83.82 90)
+    (property "Reference" "R17" (at 157.48 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "260" (at 157.48 86.36 90)
@@ -407,9 +398,6 @@
     (pin "2" (uuid 0e390d7f-2b98-4b79-a6ca-d2bd379110a4))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R6") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "R17") (unit 1)
         )
@@ -420,7 +408,7 @@
   (symbol (lib_id "Device:R") (at 157.48 99.06 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89e94f8d-a3ad-4782-819e-b6c06f165936)
-    (property "Reference" "R14" (at 157.48 93.98 90)
+    (property "Reference" "R18" (at 157.48 93.98 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 157.48 96.52 90)
@@ -436,9 +424,6 @@
     (pin "2" (uuid df36053d-63ac-4573-aa66-f10ab5c39702))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R14") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "R18") (unit 1)
         )
@@ -449,7 +434,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 134.62 109.22 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a06b6d7-9622-4c44-b99d-7afc076cb25e)
-    (property "Reference" "JP4" (at 137.16 102.87 0)
+    (property "Reference" "JP5" (at 137.16 102.87 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "PWRGD" (at 137.16 105.41 0)
@@ -465,9 +450,6 @@
     (pin "2" (uuid 1b62e0a8-f96b-4af2-bbd8-37c079631bf0))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "JP4") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "JP5") (unit 1)
         )
@@ -494,9 +476,6 @@
     (pin "2" (uuid 4c59d10a-d777-455e-82a9-4f8ff3cb9185))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D6") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "D6") (unit 1)
         )
@@ -523,9 +502,6 @@
     (pin "2" (uuid 1601c66a-bedb-4b87-8d4e-9a3ad17ce4af))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "D4") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "D4") (unit 1)
         )
@@ -536,7 +512,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 134.62 99.06 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c710512d-7db1-45f9-97e6-5ce6a9dea0ea)
-    (property "Reference" "JP3" (at 137.16 92.71 0)
+    (property "Reference" "JP4" (at 137.16 92.71 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "CHRG" (at 137.16 95.25 0)
@@ -552,9 +528,6 @@
     (pin "2" (uuid 620439ae-906f-4bc0-8f14-3f779b8552e4))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "JP3") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "JP4") (unit 1)
         )
@@ -565,7 +538,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 134.62 88.9 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf680d55-4c32-4296-9cdd-e4e6d97dbfe6)
-    (property "Reference" "JP2" (at 137.16 82.55 0)
+    (property "Reference" "JP3" (at 137.16 82.55 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "CHRG" (at 137.16 85.09 0)
@@ -581,9 +554,6 @@
     (pin "2" (uuid d3b2c3c3-bda8-47ba-9133-6a54ed52dd85))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "JP2") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "JP3") (unit 1)
         )
@@ -594,7 +564,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 134.62 78.74 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cfc91367-618f-46fd-83aa-b78ff95eb12a)
-    (property "Reference" "JP1" (at 137.16 72.39 0)
+    (property "Reference" "JP2" (at 137.16 72.39 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "FAULT" (at 137.16 74.93 0)
@@ -610,9 +580,6 @@
     (pin "2" (uuid f3bea6d1-3cc4-4fcc-8219-bc048f2cca26))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "JP1") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "JP2") (unit 1)
         )
@@ -623,7 +590,7 @@
   (symbol (lib_id "Device:R") (at 157.48 78.74 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fd6877f1-a282-4f1f-b458-c87ed5a7b752)
-    (property "Reference" "R5" (at 157.48 73.66 90)
+    (property "Reference" "R16" (at 157.48 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "260" (at 157.48 76.2 90)
@@ -639,9 +606,6 @@
     (pin "2" (uuid b0662258-a2c8-434e-95ee-c9f15dfebcd1))
     (instances
       (project "picoups"
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
-          (reference "R5") (unit 1)
-        )
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
           (reference "R16") (unit 1)
         )

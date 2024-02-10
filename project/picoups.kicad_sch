@@ -2079,9 +2079,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "TP3") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
-          (reference "TP2") (unit 1)
-        )
       )
     )
   )
@@ -2132,9 +2129,6 @@
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "R9") (unit 1)
-        )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
-          (reference "R7") (unit 1)
         )
       )
     )
@@ -2357,9 +2351,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "TP5") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
-          (reference "TP2") (unit 1)
-        )
       )
     )
   )
@@ -2436,9 +2427,6 @@
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "R10") (unit 1)
-        )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
-          (reference "R8") (unit 1)
         )
       )
     )
@@ -2567,9 +2555,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "JP1") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
-          (reference "JP1") (unit 1)
-        )
       )
     )
   )
@@ -2580,7 +2565,7 @@
     (property "Reference" "JP6" (at 52.07 146.05 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "USER" (at 49.53 146.05 0)
+    (property "Value" "WAKE" (at 49.53 146.05 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (at 45.72 144.78 0)
@@ -2595,9 +2580,6 @@
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "JP6") (unit 1)
-        )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/e21d3221-edd3-4144-8d1a-91b5737dd9b8"
-          (reference "JP1") (unit 1)
         )
       )
     )
@@ -2776,9 +2758,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "TP8") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
-          (reference "TP2") (unit 1)
-        )
       )
     )
   )
@@ -2906,9 +2885,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "TP9") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
-          (reference "TP2") (unit 1)
-        )
       )
     )
   )
@@ -2934,9 +2910,6 @@
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "R11") (unit 1)
-        )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/28cf3a3e-2270-4421-9985-b09e0cdb49a4"
-          (reference "R9") (unit 1)
         )
       )
     )
@@ -3041,9 +3014,6 @@
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "SW2") (unit 1)
         )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/92ed0473-53e9-4211-a651-f912f1c2bd2b"
-          (reference "SW1") (unit 1)
-        )
       )
     )
   )
@@ -3118,9 +3088,6 @@
       (project "picoups"
         (path "/d62f1157-7c2f-4dce-8167-d5624900d267"
           (reference "TP6") (unit 1)
-        )
-        (path "/d62f1157-7c2f-4dce-8167-d5624900d267/69257c21-ade6-4c01-a27c-653d8ba74447"
-          (reference "TP2") (unit 1)
         )
       )
     )
